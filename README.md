@@ -1,66 +1,86 @@
-# Forty - Jekyll Theme
+# Personal Portfolio 🔥
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+> https://kukr.github.io/
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+<!-- :star: Star me on GitHub — it helps! -->
 
-# How to Use
+<!--
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) -->
+<!--
+### Website Preview
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
-and [creating pages](https://jekyllrb.com/docs/pages/).
+#### Home Page
 
-Simply fork this repository and start editing the `_config.yml` file!
+<img src="website_images/HomePage.gif" width="900">
 
-> NOTE: GitHub Actions is required to deploy to GitHub Pages because GitHub [refuses to update their version of Jekyll](https://github.com/github/pages-gem/issues/651).
+#### About Page
 
-# Added Features
+<img src="website_images/AboutPage.png" width="900">
 
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
-* Set **featured images** in front matter.
+#### Projects Page
 
-# Credits
+<img src="website_images/ProjectPage.png" width="900">
 
-Original README from HTML5 UP:
+:star: Star me on GitHub — it helps! -->
 
-```
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+## Features 📋
 
+⚡️ Fully Responsive\
+⚡️ Valid HTML5 & CSS3\
+⚡️ Typing animation using `Typed.js`\
+⚡️ Easy to modify
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
+## Installation & Deployment 📦
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- Clone the repository and modify the content of <b>index.html</b>
+- Add or remove images from `assets/img/` directory as per your requirement.
+- Update the info of `projects` folder according to your need
+- Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
+- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
 
-(* = not included)
+## Sections 📚
 
-AJ
-aj@lkn.io | @ajlkn
+✔️ About\
+✔️ Interests\
 
+<!-- ✔️ Education\ -->
+<!-- ✔️ Online Certification\ -->
 
-Credits:
+✔️ Experience\
+✔️ Projects \
+✔️ Skills \
+✔️ Resume\
 
-	Demo Images:
-		Unsplash (unsplash.com)
+<!-- ✔️ Contact Info -->
 
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+## Tools Used 🛠️
 
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		background-size polyfill (github.com/louisremi)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
-```
+- <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
 
-Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
+## Contributing 💡
+
+#### Step 1
+
+- **Option 1**
+
+  - 🍴 Fork this repo!
+
+- **Option 2**
+  - 👯 Clone this repo to your local machine.
+
+#### Step 2
+
+- **Build your code** 🔨🔨🔨
+
+#### Step 3
+
+- 🔃 Create a new pull request.
+
+## License
+
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](http://opensource.org/licenses/mit-license.php)**
